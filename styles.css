@@ -165,9 +165,9 @@ p {
     padding: 0;
   }
   .container {
-    max-width: 450px;
+    max-width: 400px;
 
-    margin: 50px;
+    margin: 30px;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: "daniel" "jonathan" "jeanette" "patrick" "kira";
