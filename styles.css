@@ -167,29 +167,29 @@ p {
   .container {
     max-width: 400px;
 
-    margin: 30px;
+    margin: 32px;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: "daniel" "jonathan" "jeanette" "patrick" "kira";
   }
   .box-daniel {
-    width: 400px;
+    width: 350px;
     height: 350px;
   }
   .box-jonathan {
-    width: 400px;
+    width: 350px;
     height: 200px;
   }
   .box-jeanette {
-    width: 400px;
+    width: 350px;
     height: 200px;
   }
   .box-patrick {
-    width: 400px;
-    height: 300px;
+    width: 350px;
+    height: 320px;
   }
   .box-kira {
-    width: 400px;
+    width: 350px;
     height: 330px;
   }
 }
